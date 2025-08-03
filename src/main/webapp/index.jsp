@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=2.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Netflix Login Page | CodingNepal</title>
     <link rel="stylesheet" href="style.css" />
   </head>
@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-8.0</h2>
+      <h2>NETFLIX SIGN IN V-1.0</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
